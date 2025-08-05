@@ -19,12 +19,6 @@ Retail operations often generate large amounts of data across sales channels, re
 • Styling: Custom colour palette and minimalist layout for print clarity
 
 # Key Outcomes
-The outcome of this project is highlighted in the KPIs within the dashboard.
+The outcome of this project is highlighted in the KPIs within the dashboard. This will help timely and easy descision making by the stakeholders.
 
-# Recommendations
-To improve its functionality and reach, the following future enhancements are suggested:
-• Add drill-down capabilities for product-level analysis.
-• Incorporate real-time data connections for current reporting.
-• Enable predictive analytics using Tableau's built-in forecasting tools.
-• Optimise layout for mobile and tablet screens.
-• Automate email distribution of dashboard snapshots.
+
