@@ -3,6 +3,8 @@
 
 # Introduction
 The Efficient-Store Dashboard is a high-level analytics tool developed to help retail executives monitor key business metrics through an intuitive and visually engaging interface. Designed and implemented using Tableau Public, this dashboard provides real-time visibility into operational performance by consolidating key indicators, including sales, profit, customer volume, and order flow. 
+# Dashbord link 
+https://public.tableau.com/views/Efficient-storeDashboard/ExecutiveView?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 # Project Objectives
 • To create a single-view dashboard summarising essential KPIs for executive stakeholders.
 • To enable data filtering by region, category, and year for flexible insights.
