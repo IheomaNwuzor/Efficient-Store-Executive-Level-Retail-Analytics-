@@ -7,9 +7,10 @@ Link: https://public.tableau.com/views/Efficient-storeDashboard/ExecutiveView?:l
 ## Background
 
 Efficient-Store operates within a highly competitive retail landscape, offering a wide range of products to both individual and corporate clients across multiple regions. As the company pursues growth and expands its market presence, it has become increasingly important to gain deep insights into sales performance, customer segmentation, and operational efficiency. There is fragmented information on the existing business-critical data that is dispersed across different systems, making it difficult to obtain a unified view of performance. Managers lack real-time visibility into key sales and operational trends, impacting timely decision-making. There is an existing customer insight gap with no clear segmentation, personalised marketing, which makes service efforts less effective. However, inefficient reporting, manual data aggregation and reporting processes are time-consuming and prone to error, slowing strategic planning and affecting the company’s efficiency, targeted marketing, and sustained competitive advantage as the company struggles to grow.
-Current Challenges
 
-## Business Challenges
+## Current Challenges
+
+Business Challenges
 •	Regional Sales Variability – Significant performance differences across geographic regions.
 •	Customer Retention – High churn observed in certain product categories.
 •	Profitability Concerns – Some product segments underperform in terms of profit margins.
@@ -17,14 +18,17 @@ Data Challenges
 •	Time-Series Gaps – Limited understanding of sales trends over time.
 •	Data Preparation – Inconsistent preprocessing methods leading to inefficiencies.
 •	Data Integration – Fragmented sources requiring cleaning and restructuring.
-Aim
+
+## Aim
 To design and develop an interactive Tableau dashboard that provides a 360° view of sales performance, enabling data-driven decision-making for improved efficiency, customer insights, and profitability optimisation.
-Objectives
+
+## Objectives
 •	Explore and analyse Just-store's sales performance across regions, categories, and time.
 •	Identify high-performing and underperforming products and segments.
 •	Optimize the decision-making process with actionable insights.
 •	Develop a Tableau dashboard for efficient data visualization and real-time decision support.
-Integration Strategy 
+
+## Integration Strategy 
 The project covers the following integration and scope areas:
 •	Data Sources: Superstore dataset (Orders, Returns, People).
 •	Data Preparation: Cleaning, joining, blending, and pivoting datasets as needed.
@@ -35,7 +39,8 @@ o	Profitability by category
 o	Time-series sales and forecasting
 o	Customer churn analysis
 •	Deployment: Portfolio-ready dashboard published via Tableau Public.
-Steps
+
+## Steps
 1.	Data Connection
 o	Connect to Superstore dataset and identify data types (dimensions vs. measures).
 2.	Data Preparation
@@ -51,28 +56,21 @@ o	Add filters, tooltips, KPIs, and reference lines.
 o	Apply forecasting models to predict future sales trends.
 6.	Publishing
 o	Optimize dashboard layout for clarity and performance.
-Conclusion
-This Tableau dashboard project demonstrates proficiency in data visualisation, dashboard creation, and business storytelling. By solving real-world challenges such as sales variability, profitability optimisation, and customer retention, the project highlights key performance indicators (KPIs) that empower organisations to make faster, smarter decisions.
-# Introduction
-The Efficient-Store Dashboard is a high-level analytics tool developed to help retail executives monitor key business metrics through an intuitive and visually engaging interface. Designed and implemented using Tableau Public, this dashboard provides real-time visibility into operational performance by consolidating key indicators, including sales, profit, customer volume, and order flow. 
-# Dashbord link 
-https://public.tableau.com/views/Efficient-storeDashboard/ExecutiveView?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-# Project Objectives
-• To create a single-view dashboard summarising essential KPIs for executive stakeholders.
-• To enable data filtering by region, category, and year for flexible insights.
-• To support faster, more informed decision-making across departments.
 
-# Design Rationale
-Retail operations often generate large amounts of data across sales channels, regions, and product categories. Static reporting methods tend to obscure actionable insights, especially for time-pressed decision-makers. This project addressed the need for dynamic, executive-level reporting, allowing users to explore performance data interactively, identify patterns, and respond to business challenges quickly.
 
-# Tools & Techniques Used
+## Tools & Techniques Used
 • Software: Tableau Public, Excel
 • Data Features: Filters, calculated fields, parameters, tooltips, and visual KPIs
 • Visual Elements: Horizontal bar charts, pie charts, stacked bars, and time-series line charts
 • Layout Features: Executive vs. Table views, icon-based navigation, and a year-selector toggle
 • Styling: Custom colour palette and minimalist layout for print clarity
 
-# Key Outcomes
-The outcome of this project is highlighted in the KPIs within the dashboard. This will help timely and easy descision making by the stakeholders.
+## Conclusion
+This project demonstrates proficiency in data visualisation, dashboard creation, and business insight By solving real-world challenges such as sales variability, profitability optimisation, and customer retention, the project highlights key performance indicators (KPIs) that empower organisations to make faster, smarter decisions.
+
+
+
+
+
 
 
