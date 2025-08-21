@@ -2,7 +2,7 @@
 
 Link: https://public.tableau.com/views/Efficient-storeDashboard/ExecutiveView?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-# Optimising Retail Sales Performance
+# Optimising Retail Sales Performance for Business Efficiency
 
 ## Background
 
