@@ -33,33 +33,22 @@ To design and develop an interactive Tableau dashboard that provides a 360° vie
 
 ## Integration Strategy 
 The project covers the following integration and scope areas:
-•	Data Sources: Superstore dataset (Orders, Returns, People).
+
 •	Data Preparation: Cleaning, joining, blending, and pivoting datasets as needed.
-•	Metrics & KPIs: Sales, Profit, Quantity, Discount, Customer Segmentation.
-•	Visualization Scope:
-o	Regional sales performance
-o	Profitability by category
-o	Time-series sales and forecasting
-o	Customer churn analysis
-•	Deployment: Portfolio-ready dashboard published via Tableau Public.
 
-## Steps
-1.	Data Connection
-o	Connect to Superstore dataset and identify data types (dimensions vs. measures).
-2.	Data Preparation
-o	Apply joins, blending, and unions where required.
-o	Use Pivot and Data Interpreter for restructuring.
-3.	Exploratory Analysis
-o	Build charts (bar, line, pie, packed bubbles, etc.).
-o	Apply filters (dimension, measure, date, Top N).
-4.	Dashboard Development
-o	Combine multiple worksheets into a single interactive dashboard.
-o	Add filters, tooltips, KPIs, and reference lines.
-5.	Time-Series Analysis
-o	Apply forecasting models to predict future sales trends.
-6.	Publishing
-o	Optimize dashboard layout for clarity and performance.
+•	Metrics & KPIs, Calculated Fields
 
+•	Data Visualizations
+
+o	Dashboard Development and performance Clarity
+
+o	Data Exploratory Analysis
+
+o	Time-Series Analysis
+
+o	Forecasting models and future sales trends prediction
+
+o	Recommendations
 
 ## Tools & Techniques Used
 • Software: Tableau Public, Excel
