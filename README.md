@@ -11,10 +11,13 @@ Efficient-Store operates within a highly competitive retail landscape, offering 
 ## Current Challenges
 
 Business Challenges
+
 •	Regional Sales Variability – Significant performance differences across geographic regions.
 •	Customer Retention – High churn observed in certain product categories.
 •	Profitability Concerns – Some product segments underperform in terms of profit margins.
+
 Data Challenges
+
 •	Time-Series Gaps – Limited understanding of sales trends over time.
 •	Data Preparation – Inconsistent preprocessing methods leading to inefficiencies.
 •	Data Integration – Fragmented sources requiring cleaning and restructuring.
