@@ -34,7 +34,7 @@ To design and develop an interactive Tableau dashboard that provides a 360° vie
 ## Integration Strategy 
 The project covers the following integration and scope areas:
 
-•	Data Preparation: Cleaning, joining, blending, and pivoting datasets as needed.
+•	Data importation and Preparation: Cleaning, joining, blending, and pivoting datasets as needed.
 
 •	Metrics & KPIs, Calculated Fields
 
