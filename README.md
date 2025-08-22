@@ -31,14 +31,20 @@ To design and develop an interactive Tableau dashboard that provides a 360° vie
 •	Optimize the decision-making process with actionable insights.
 •	Develop a Tableau dashboard for efficient data visualization and real-time decision support.
 
-## Integration Strategy 
+## Detailed Steps
 The project covers the following integration and scope areas:
 
-•	Data importation and Preparation: Cleaning, joining, blending, and pivoting datasets as needed.
+•	Data preparation and cleaning
 
-•	Metrics & KPIs, Calculated Fields
+![Just-store](https://github.com/user-attachments/assets/5b187121-0d37-4e9c-b40a-372f29b4548e)
 
-•	Data Visualizations
+•	Data importation and Preparation and table joining
+
+•	Proper data asignment 
+
+•	Data grouping, folders, metrics, calculated fields and & KPIs creation
+
+•	Data Visualizations and creation
 
 o	Dashboard Development and performance Clarity
 
